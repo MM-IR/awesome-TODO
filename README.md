@@ -87,6 +87,86 @@ VRD任务，关于咱们的Visual Relationship 就是指形如<object1,predicate
 # 8.On exploring Undetermined Relationships for Visual Relationship Detection
 
 
+# 9.Visual Relationship Detection with Relative Location Mining
+
+# 10.DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
+
+# 11.Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks
+
+# 12.Hierarchical Feature-Pair Relation Networks for Face Recognition
+
+# 13.Spatial-aware Graph Relation Network for Large-Scale Object Detection
+
+# 14.Exploring COntext and Visual Pattern of Relationship for Scene Graph Generation
+
+# 15.Attentive Relational Networks for Mapping Images to Scene Graphs
+
+# 16.ORD: Object Relationship Discovery for Visual Dialogue Generation@@这里就是对于VQA而言将关系建立的很好，我们用一个层次的方式来进行encoding
+第一个stage就是local的object结合relation的aggregation，然后就是object-object interaction～
+
+# 17.Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning
+
+# 18.Spatio-temporal Relational Reasoning for Video QA
+
+# 19.Learning Spatio-temporal Representation with Local and Global Diffusion
+
+# 20.Reinforced Mnemonic Reader for MRC
+
+# 21.Explicit Utilization of General Knowledge in Machine Reading Comprehension
+
+# 22.FusionNet:Fusing via Fully-aware Attention with Application to Machine Comprehension
+
+# 23.Stochastic Answer Networks for MRC
+
+# 24.QANet: Combining Local Convolution with Global Self-attention for MRC
+
+# 25.Gated Self-Matching Networks for Reading Comprehension and Question ANswering
+
+# 26.Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
+
+# 27.Exploring Graph-Structured Passage Representation for Multi-hop Reading Comprehension with GNN
+
+# 28.Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension@key
+
+# 29.GraphFlow: Exploiting Conversation Flow with GNN for Conversational Machine Comprehension
+
+# 30.Learning Cross-Modal Context Graph for Visual Grounding@AAAI2020
+
+# 31.Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions
+
+# 32.Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers@AAAI2021
+
+# 33.Spatiotemporal Graph NN based Mask Reconstruction for Video Object Segmentation@AAAI 2021
+
+# 34.Video-Grounded Dialogues with Pretrained Generation Language Models
+
+# 35.Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems
+
+# 36.Learning Action Primitives for Multi-level Video Event Understanding
+
+# 37.A Deep Reinforcement Learning Based Multi-step Coarse to Fine Question Answering System(MSCQA)
+
+# 38.Span-Selection Pretraining for QA@2020 ACL
+
+# 39.Stacking With Auxiliary Features for Visual QA@2018ACL
+
+# 40.Coarse-to-Fine Pretraining for Named Entity Recognition@2020 ACL
+
+# 41.Evidence Sentence Extraction for MRC
+
+# 42.Coarse-to-Fine Question Answering for Long Documents
+
+# 43.Coarse-Grain Fine-Grain Coattention Network for Multi-evidence QA@ICLR 2019
+
+# 44.Non-Autoregressive Coarse-to_Fine Video Captioning
+
+# 45.Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention@AAAI2019
+
+# 46.A Graph-based Relevance Matching Model for Ad-hoc Retrieval@必看
+
+# 47.Improving Span-based QA systems with Coarsely Labeled Data.@必看
+
+# 48.
 
 
 
